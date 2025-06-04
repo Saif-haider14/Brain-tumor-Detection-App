@@ -26,7 +26,7 @@ st.markdown(
     }
     h1 {
         
-        color: black;
+        color: #EEEEEE;
     }
     </style>
     """,
