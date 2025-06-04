@@ -25,7 +25,7 @@ st.markdown(
         background-size: cover;
     }
     h1 {
-        text-align: center;
+        
         color: black;
     }
     </style>
